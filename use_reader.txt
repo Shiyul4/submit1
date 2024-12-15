@@ -1,0 +1,3 @@
+command windows:
+
+python activity_recognition_demo.py --model resnet-34_kinetics.onnx --classes action_recognition_kinetics.txt --input videos/test/test3.mp4
