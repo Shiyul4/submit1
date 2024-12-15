@@ -1,5 +1,6 @@
-val_labels.txt filter=lfs diff=lfs merge=lfs -text
-Action_Recognition3.ipynb filter=lfs diff=lfs merge=lfs -text
-fixed_model.pth filter=lfs diff=lfs merge=lfs -text
-test_labels.txt filter=lfs diff=lfs merge=lfs -text
-train_labels.txt filter=lfs diff=lfs merge=lfs -text
+resnet-34_kinetics.onnx filter=lfs diff=lfs merge=lfs -text
+use_reader.txt filter=lfs diff=lfs merge=lfs -text
+videos filter=lfs diff=lfs merge=lfs -text
+action_recognition_kinetics.txt filter=lfs diff=lfs merge=lfs -text
+activity_recognition_demo.py filter=lfs diff=lfs merge=lfs -text
+model.py filter=lfs diff=lfs merge=lfs -text
